@@ -7,4 +7,4 @@
 - 📫 How to reach me: You can message me on my LinkedIn profile at https://www.linkedin.com/in/niya-mateeva-yondzhju-phd/ or e-mail me at: niyamateevaoncu@gmail.com.
 - ⚡ Fun fact: When I decided to have a break from academia, one of my best instructors told me that I would get bored eventually and I would be missing the challenge. But I think I knew by then, I was never planning to get bored, I was already looking for new challenges!
 
-[![GitHub Streak](https://github-readme-streak-stats-orcin.vercel.app?user=Polishko)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Polishko&theme=tokyonight)](https://git.io/streak-stats)
