@@ -6,3 +6,5 @@
 - 🌱 I am looking forward to take the upcoming SoftUni courses: HTML, CSS, JS Front-End and Python Web and then creating my own portfolio with interesting projects.
 - 📫 How to reach me: You can message me on my LinkedIn profile at https://www.linkedin.com/in/niya-mateeva-yondzhju-phd/ or e-mail me at: niyamateevaoncu@gmail.com.
 - ⚡ Fun fact: When I decided to have a break from academia, one of my best instructors told me that I would get bored eventually and I would be missing the challenge. But I think I knew by then, I was never planning to get bored, I was already looking for new challenges!
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Polishko)](https://git.io/streak-stats)
