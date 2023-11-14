@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently learning Python - ORM and Django at SoftUni.
 - 🌱 I am looking forward to take the upcoming SoftUni courses: HTML, CSS, JS Front-End and Python Web and then creating my own portfolio with interesting projects.
-- 📫 You can find me at: 
+- 📫 You can find me here: 
   <a href="https://www.linkedin.com/in/niya-mateeva-yondzhju-phd/" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
