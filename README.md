@@ -1,4 +1,4 @@
-### Hi, I am Niya! 👋
+### Hi, I am Niya! 👋 My friends also call me Nala or Nalan.
 
 ✨I am a Localization Professional with academic background in environmental science and engineering. A year ago, I got inspired by a friend and started my journey with SoftUni, eventually realizing a dream: Learning to program! And since then, I have loved it! I am looking forward to start a career as a software engineer, working with and learning in new teams and collaborating in interesting projects.✨
 
