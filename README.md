@@ -2,7 +2,7 @@
 
 ✨I am a Localization Professional with academic background in environmental science and engineering. A year ago, I got inspired by a friend and started my journey with SoftUni, eventually realizing a dream: Learning to program! And since then, I have loved it! I am looking forward to start a career as a software engineer, working with and learning in new teams and collaborating in interesting projects.✨
 
-- 🔭 I’m currently learning Python - ORM and Django at SoftUni.
+- 🔭 I recently completed the Python - ORM and Django at SoftUni.
 - 🌱 I am looking forward to take the upcoming SoftUni courses: HTML, CSS, JS Front-End and Python Web and then creating my own portfolio with interesting projects.
 
 ## 📫 You can find me here: <p>
