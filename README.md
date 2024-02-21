@@ -14,7 +14,7 @@
  <a href="mailto:niyamateevaoncu@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 
  ## 🧰 Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=py,regex,vscode,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,regex,vscode,github, html, css)](https://skillicons.dev)
 
 - ⚡ Fun fact: When I decided to have a break from academia, one of my best instructors told me that I would get bored eventually and I would miss the challenge. But I knew by then, I was never planning to get bored, I was already looking for new challenges!
 <p align="center">
