@@ -2,8 +2,8 @@
 
 ✨I am a Localization Professional with academic background in environmental science and engineering. A year ago, I got inspired by a friend and started my journey with SoftUni, eventually realizing a dream: Learning to program! And since then, I have loved it! I am looking forward to start a career as a software engineer, working with and learning in new teams and collaborating in interesting projects.✨
 
-- 🔭 I recently completed the Python - Django ORM and HTML, CSS courses at SoftUni.
-- 🌱 Currently I am learning JS Front-End/React and I'm looking forward to take the Python Web module.
+- 🔭 I recently completed the SoftUni's React course.
+- 🌱 Currently I am learning Python Web/Django.
 
 ## 📫 You can find me here: <p>
 <link
@@ -14,7 +14,7 @@
  <a href="mailto:niyamateevaoncu@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 
  ## 🧰 Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=py,regex,vscode,github,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,react,regex,vscode,github,html,css)](https://skillicons.dev)
 
 - ⚡ Fun fact: When I decided to have a break from academia, one of my best instructors told me that I would get bored eventually and I would miss the challenge. But I knew by then, I was never planning to get bored, I was already looking for new challenges!
 <p align="center">
