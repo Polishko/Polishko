@@ -5,7 +5,7 @@
 - 🔭 I recently completed the SoftUni's React course.
 - 🌱 Currently I am learning Python Web/Django.
 
-## 📫 You can find me here: <p>
+## 📫 You can find me here: 
 <link
   rel="stylesheet"
   href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@master/ci.min.css"
