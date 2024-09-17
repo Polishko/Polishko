@@ -19,9 +19,11 @@
 [![My Skills](https://skillicons.dev/icons?i=py,js,react,postgres,regex,vscode,github,html,css)](https://skillicons.dev)
 
 - ⚡ Fun fact: When I decided to have a break from academia, one of my best instructors told me that I would get bored eventually and I would miss the challenge. But I knew by then, I was never planning to get bored, I was already looking for new challenges!
+  
 <p align="center">
   <img width="550" height="200" src="https://streak-stats.demolab.com?user=Polishko&theme=burnt-neon&hide_border=true&cache_bust=1">
 </p>
+
 <p align="center">
   <img width="300" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Polishko&theme=vision-friendly-dark">
 </p>
