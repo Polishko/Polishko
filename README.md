@@ -1,9 +1,9 @@
-### Hi, I am Niya! 👋 My friends also call me Nala or Nalan.
+### Hi, I am Niya! 👋 My friends also call me Nalan.
 
-✨I am a Localization Professional with academic background in environmental science and engineering. A year ago, I got inspired by a friend and started my journey with SoftUni, eventually realizing a dream: Learning to program! And since then, I have loved it! I am looking forward to start a career as a software engineer, working with and learning in new teams and collaborating in interesting projects.✨
+✨I am a Localization Professional with an academic background in Environmental Science and Engineering. A year ago, I was inspired by a friend to begin my journey with SoftUni. It has since become a dream come true and I’ve been enjoying every moment!
 
-- 🔭 I recently completed the SoftUni's React course.
-- 🌱 Currently I am learning Python Web/Django.
+- 🔭 I recently completed the SoftUni's Python Web/Django course.
+- 🌱 I am looking forward to complete SoftUni's DevOps for Developers course.
 
 ## 📫 You can find me here: <p>
 
@@ -16,8 +16,6 @@
  
  ## 🧰 Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=py,js,react,postgres,regex,vscode,github,html,css)](https://skillicons.dev)
-
-- ⚡ Fun fact: When I decided to have a break from academia, one of my best instructors told me that I would get bored eventually and I would miss the challenge. But I knew by then, I was never planning to get bored, I was already looking for new challenges!
   
 <p align="center">
   <img width="550" height="200" src="https://streak-stats.demolab.com?user=Polishko&theme=burnt-neon&hide_border=true&cache_bust=1">
