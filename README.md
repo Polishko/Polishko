@@ -1,8 +1,8 @@
 ### Hi, I am Niya! 👋 My friends also call me Nalan.
 
-✨I am a Localization Professional with an academic background in Environmental Science and Engineering. A year ago, I was inspired by a friend to begin my journey with SoftUni. It has since become a dream come true and I’ve been enjoying every moment!
+✨I am a Localization Professional with an academic background in Environmental Science and Engineering. Recently, I was inspired by a friend to begin my journey with SoftUni. It has since become a dream come true and I’ve been enjoying every moment!
 
-- 🔭 I recently completed the SoftUni's Python Web/Django course.
+- 🔭 I recently completed the SoftUni's Python Web/Django course and I graduated SoftUni's Software Engineering program, specializing in Python.
 - 🌱 I am looking forward to complete SoftUni's DevOps for Developers course.
 
 ## 📫 You can find me here: <p>
