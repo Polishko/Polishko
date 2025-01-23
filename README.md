@@ -18,7 +18,8 @@
 [![My Skills](https://skillicons.dev/icons?i=py,js,react,postgres,regex,vscode,github,html,css)](https://skillicons.dev)
   
 <p align="center">
-  <img width="550" height="200" src="https://streak-stats.demolab.com?user=Polishko&theme=burnt-neon&hide_border=true&cache_bust=1">
+<!--   <img width="550" height="200" src="https://streak-stats.demolab.com?user=Polishko&theme=burnt-neon&hide_border=true&cache_bust=1"> -->
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Polishko&show_icons=true&theme=burnt-neon)
 </p>
 
 <p align="center">
