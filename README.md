@@ -3,9 +3,11 @@
 ✨I am a Localization Professional with an academic background in Environmental Science and Engineering. Recently, I was inspired by a friend to begin my journey with SoftUni. It has since become a dream come true and I’ve been enjoying every moment!
 
 🔭 I recently completed the Software Engineering - Python learning path at SoftUni.
+
 🌱 I’m currently strengthening my Front-End skills, with a focus on JavaScript and TypeScript.
 
 📚 Passionate about building responsive web apps and writing clean, maintainable code.
+
 💡 Always exploring how things work under the hood — from language quirks to real-world project structure.
 
 ## 📫 You can find me here: <p>
