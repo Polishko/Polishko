@@ -1,8 +1,5 @@
 ### Hi, I am Niya! 👋 My friends also call me Nalan.
 
-Hi, I’m Niya! 👋
-My friends also call me Nalan.
-
 ✨ I'm a Localization Professional with an academic background in Environmental Science and Engineering.
 I was recently inspired to pursue a long-time dream of learning programming. It has since become a dream come true, and I’ve been enjoying every moment!
 
