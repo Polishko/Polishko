@@ -14,6 +14,8 @@ I enjoy understanding how things work under the hood — from programming fundam
 🧰 Languages and Tools:
 Python, JavaScript, HTML/CSS, PostgreSQL, React, Django, Git
 
+📚 My Portfolio: https://polishko.github.io/portfolio/
+
 ## 📫 You can find me here: <p>
 
 <link
