@@ -1,7 +1,7 @@
 ### Hi, I am Niya! 👋 My friends also call me Nalan.
 
 ✨ I'm a Localization Professional with an academic background in Environmental Science and Engineering.
-I was recently inspired to pursue a long-time dream of learning programming. It has since become a dream come true, and I’ve been enjoying every moment!
+I was inspired to pursue a long-time dream of learning programming. It has since become a dream come true, and I’ve been enjoying every moment!
 
 I’ve completed the Software Engineering – Python learning path at SoftUni.
 
@@ -12,7 +12,7 @@ I’m passionate about building responsive web applications and writing clean, m
 I enjoy understanding how things work under the hood — from programming fundamentals to real-world project structure.
 
 🧰 Languages and Tools:
-Python, JavaScript, HTML/CSS, PostgreSQL, React, Django, Git
+JavaScript, HTML/CSS, PostgreSQL, React, Git, Python
 
 📚 My Portfolio: https://polishko.github.io/portfolio/
 
