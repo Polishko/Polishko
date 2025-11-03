@@ -10,7 +10,7 @@ Currently, I'm deepening my Front-End skills, focusing on JavaScript, TypeScript
 
 I'm passionate about building responsive web applications and writing clean, maintainable code.
 
-I enjoy understanding how things work under the hood—from programming fundamentals to real-world project structure.
+I enjoy understanding how things work under the hood - from programming fundamentals to real-world project structure.
 
 🧰 Languages and Tools:
 JavaScript, HTML/CSS, PostgreSQL, React, Angular, Git, Python
